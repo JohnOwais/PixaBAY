@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148821458684",
+    "project_id": "pixabay-c7d4f",
+    "storage_bucket": "pixabay-c7d4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148821458684:android:16bc822acaad3831716179",
+        "android_client_info": {
+          "package_name": "com.johnowais.pixabay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148821458684-mji10oafmclmbfjfur7umrpa9v47gfdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx_m-EOc_gOd6C1WHIDg7GIM5QzBJQ3J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148821458684-mji10oafmclmbfjfur7umrpa9v47gfdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
